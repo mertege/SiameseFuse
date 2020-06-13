@@ -1,7 +1,7 @@
 # SiameseFuse
 A Deep Siamese Approach for Visible and Infrared Images
 
-In SiameseFuse-Keras file, you can download and run the Keras code of SiameseFuse architecture. 
+By downloading SiameseFuse_Keras.ipynb file, you can run the Keras code of SiameseFuse architecture. 
 
 In order to load datasat for test and training you use following links:
 
