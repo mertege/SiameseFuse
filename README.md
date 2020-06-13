@@ -13,3 +13,6 @@ In recent years, image processing field is making great progress thanks to deep 
 # SiameseFuse Architecture
 ![alt text](https://github.com/mertege/SiameseFuse/blob/master/figures/SiameseFuse.PNG)
 # Results
+
+![Result 1](/figures/example.png)
+Format: ![Alt Text](url)
