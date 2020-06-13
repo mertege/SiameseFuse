@@ -15,4 +15,3 @@ In recent years, image processing field is making great progress thanks to deep 
 # Results
 
 ![Result 1](/figures/example.png)
-Format: ![Alt Text](url)
