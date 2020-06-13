@@ -1,6 +1,6 @@
 # SiameseFuse
 A Deep Siamese Approach for Visible and Infrared Images
-
+# Notes
 By downloading SiameseFuse_Keras.ipynb file, you can run the Keras code of SiameseFuse architecture. 
 
 In order to load datasat for test and training you use following links:
@@ -10,3 +10,4 @@ https://drive.google.com/file/d/1grvxahI65Bm-GLLTAFob9Z8lZuFfHO2s/view?usp=shari
 
 # Abstract
 In recent years, image processing field is making great progress thanks to deep learning methods. Hence, fusing infrared and visible images also benefited from deep learning architectures. However, there is no architecture that feeding directly thermal and visible images at the same time to train their model. Therefore, features of thermal and visible images cannot be extracted properly. In this paper, large amount of the overlapped thermal and visible images have been gathered to train our model using Siamese and CNN-based architecture, termed as SiameseFuse. The proposed architecture uses 2 ground truth images including thermal and visible images to get loss of architecture. We further show that proposed method gives state-of-the-art performance with smaller parameter numbers on variety of images in both subjective and objective assessment.
+# Results
