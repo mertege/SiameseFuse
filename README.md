@@ -14,4 +14,4 @@ In recent years, image processing field is making great progress thanks to deep 
 ![alt text](https://github.com/mertege/SiameseFuse/blob/master/figures/SiameseFuse.PNG)
 # Results
 
-![alt text](https://github.com/mertege/SiameseFuse/blob/master/figures/example.png)
+![alt text](https://github.com/mertege/SiameseFuse/blob/master/figures/fused_images.png)
